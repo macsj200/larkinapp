@@ -1,25 +1,49 @@
 <head>
-  <title>larkinapp</title>
+	<title>larkinapp</title>
 </head>
-
 <body>
-  <h1>Welcome to Meteor!</h1>
 
-  {{> hello}}
-  {{> info}}
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Larkin Street App</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+	{{> socialServiceTemplate}}
+    </div><!-- /.container -->
 </body>
 
-<template name="hello">
-  <button>Click Me</button>
-  <p>You've pressed the button {{counter}} times.</p>
+<template name="insertSocialServiceResourceForm">
+	{{> quickForm collection="SocialServiceResources" id="insertSocialServiceResourceForm" type="insert"}}
 </template>
 
-<template name="info">
-  <h2>Learn Meteor!</h2>
-  <ul>
-    <li><a href="https://www.meteor.com/try" target="_blank">Do the Tutorial</a></li>
-    <li><a href="http://guide.meteor.com" target="_blank">Follow the Guide</a></li>
-    <li><a href="https://docs.meteor.com" target="_blank">Read the Docs</a></li>
-    <li><a href="https://forums.meteor.com" target="_blank">Discussions</a></li>
-  </ul>
+<template name="socialServiceTemplate">
+      <div class="row">
+	{{> insertSocialServiceResourceForm}}
+      </div>
+      <div class="row">
+	{{# each socialServiceResources}}
+		<div class="well">
+			<h3>{{name}}</h3>
+			<span>{{address}}</span><br/>
+			<img src="{{primaryImage}}"/>
+		</div>
+	{{/each}}
+      </div>
 </template>
