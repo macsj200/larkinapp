@@ -1,0 +1,803 @@
+{
+  "Resources": [
+    {
+      "name": "Free Eats Chart",
+      "Resource Type": "Food",
+      "Narrative": "\r\n​This is a great resource to help our youth meet their basic needs. Check out the monthly Free Eats Chart for community food pantry resources!",
+      "Resource Web Link": "http://www.freeprintshop.org/download/eats_english.pdf",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "LYRIC: Center for LGBTQ Youth",
+      "Resource Type": "Case Management;#LGBTIQQ",
+      "Narrative": "\r\n​LYRIC offers LGBTQ specific support services including case management, groups, drop in hours and internships.",
+      "Resource Web Link": "http://www.lyric.org",
+      "Contact Info": "\r\n​ADDRESS 127 Collingwood Street, SF, CA 94114\r\nPHONE 415-703-6150\r\n FAX 415-703-6153\r\n EMAIL lyricinfo@lyric.org",
+      "Days/Hours Operation": "Monday - Friday from 10:00 AM – 6:00 PM",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Mission Mental Health",
+      "Resource Type": "Mental Health",
+      "Narrative": "\r\nMission Mental Health provides an array of mental health services: mental status evaluations, medication support, urgent care, triage, support groups, individual brief and long-term therapy, and case management. Services are provided for adults ages 18-59. To provide advanced access to the community, no appointment is necessary to obtain services. However, anyone desiring an appointment needs to call the clinic and ask to speak with the officer of the day.",
+      "Contact Info": "\r\n2712 Mission St, 94110\r\n415-401-2700\r\n415-401-2741 (FAX)",
+      "Days/Hours Operation": "Hours: 830 am to 5pm; Drop in M-F  9-11am and 1-4pm",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Homeless Advocacy Project",
+      "Resource Type": "Housing;#Human Trafficking;#Legal Services",
+      "Narrative": "\r\n​This agency is useful when helping clients navigate immigration systems. They are very helpful and knowledgable.",
+      "Resource Web Link": "http://www.sfbar.org/jdc/legal-services/hap/index.aspx",
+      "Contact Info": "\r\n125 Hyde Street, SF.​\r\nPhone: (415) 575-3130 or Toll Free 1-800-405-4427  ",
+      "Days/Hours Operation": "varied, check site",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "WOMAN INC",
+      "Resource Type": "Mental Health",
+      "Narrative": "\r\n​WOMAN, Inc. offers a safe environment for survivors of domestic violence to share fears, anger, concerns, and goals with others in similar situations. Groups include practical information about the dynamics of abuse and art and other expressive modalities are often used to help participants express themselves.",
+      "Resource Web Link": "Support Group for Domestic Violence Survivors",
+      "Contact Info": "\r\n​ 415-864-4777\r\n333 Valencia Street, San Francisco, CA. 94103\r\n ",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "TALK Line for parents",
+      "Resource Type": "Case Management;#Mental Health",
+      "Narrative": "\r\n​This is a parenting resource. They provide parenting groups, counseling, childcare services and referrals. A great place for young moms and dads can spend time relaxing while their kids play in the playroom",
+      "Resource Web Link": "Support for parents",
+      "Contact Info": "TALK Line Family Support Center\r\n1757 Waller Street\r\nSan Francisco,CA94117415-441-KIDS (5437)\r\n",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Community United Against Violence",
+      "Resource Type": "Harm Reduction;#LGBTIQQ;#Mental Health;#Sex Worker;#Violence Prevention",
+      "Narrative": "\r\n​(CUAV) works to build the power of LGBTQQ (lesbian, gay, bisexual, transgender, queer, questioning) communities to transform violence and oppression. We support the healing and leadership of those impacted by abuse and mobilize our broader communities to replace cycles of trauma with cycles of safety and liberation. As part of the larger social justice movement, CUAV works to create safe communities where everyone can thrive.",
+      "Resource Web Link": "http://cuav.org",
+      "Contact Info": "\r\n​24-hour Safety Line: (425) 333-HELP (4357)",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "LYRIC",
+      "Resource Type": "Education;#LGBTIQQ;#Health/Wellness;#Career Support",
+      "Narrative": "\r\n​LYRIC's mission is to build community and inspire positive social change through education enhancement, career trainings, health promotion, and leadership development with lesbians, gay, bisexual, transgender, queer, and questioning (LGBTQQ) youth, their families, and allies of all races, classes, genders, and abilities.",
+      "Resource Web Link": "http://lyric.org",
+      "Contact Info": "\r\n​Address\r\n 127 Collingwood Street\r\n San Francisco, CA 94114\r\n One block west of Castro between 18th & 19th Streets\r\nPhone: 415.703.6150\r\nFax: 415.703.6153\r\n",
+      "Days/Hours Operation": "Monday through Friday, 11a-1p and 2p-6p.",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Dimensions Clinic",
+      "Resource Type": "Education;#Free Clinic;#Medical;#Mental Health",
+      "Narrative": "\r\nDimensions is an open and friendly place to get support in being healthy.  We offer low-cost health services for queer, transgender and questioning youth ages 12 to 25. With a staff made up of medical & mental health professionals, we can answer just about any question you might have, including things you may be too embarrassed to ask anyone else.",
+      "Resource Web Link": "http://dimensionsclinic.org/",
+      "Contact Info": "\r\n​Castro-Mission Health Center\r\n                                            3850 17th St\r\n(between Noe & Sanchez)\r\n                                            San Francisco, CA\r\n",
+      "Days/Hours Operation": "Thursday :: 5 - 8pm / Saturday :: 12 - 3pm",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Huckleberry Youth",
+      "Resource Type": "Education;#Human Trafficking;#Legal Services;#Mental Health;#Shelters;#Health/Wellness",
+      "Narrative": "\r\n​Serving San Francisco and Marin Counties, Huckleberry strengthens families and empowers young people to do four things:stay out of trouble with the law;seek a safe place in times of crisis;improve their physical and emotional health; andfinish high school and go on to college.\r\nBecause when all kids have the chance to succeed, the entire community is stronger.",
+      "Resource Web Link": "http://www.huckleberryyouth.org",
+      "Contact Info": "\r\n​Huckleberry House\r\n 1292 Page Street\r\n San Francisco, CA 94117\r\n(415) 621-2929\r\n 1-800-735-2929 (TTY)\r\n Fax (415) 621-4758\r\nDirections\r\nHuckleberry Youth Health Center\r\n 555 Cole Street\r\n San Francisco, CA 94117\r\nMulti-Service Center - (415) 386-9398\r\n Clinic - (415) 751-8181\r\n 1-800-735-2929 (TTY)\r\n Fax (415) 386-8212\r\nDirections\r\nHuckleberry Wellness Academy - San Francisco\r\n 555 Cole Street\r\n San Francisco, CA 94117\r\n(415) 386-9398\r\n 1-800-735-2929 (TTY)\r\n Fax (415) 386-8212\r\nDirections\r\nCommunity Assessment and Resource Center (CARC)\r\n 44 Gough Street, Suite 104\r\n San Francisco, CA 94103\r\n(415) 437-2500\r\n 1-800-735-2929 (TTY)\r\n Fax (415) 437-2511",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "LGBTQ Center",
+      "Resource Type": "Career Support;#Education;#Family/Children;#Financial Services;#Food;#Health/Wellness;#LGBTIQQ",
+      "Narrative": "\r\n​The mission of the San Francisco Lesbian Gay Bisexual Transgender (LGBT) Community Center is to connect our diverse community to opportunities, resources and each other to achieve our vision of a stronger, healthier, and more equitable world for LGBT people and our allies. When visitors arrive at the Center, they find free services like career counseling, job fairs, computer lab, social activities, mentorships, youth meals, daycare, various workshops and much more. Here they can connect with other LGBT people and organize to secure our equal rights. The Center is truly the heart, home and hands of the San Francisco LGBT community.",
+      "Resource Web Link": "http://www.sfcenter.org/",
+      "Contact Info": "\r\n​San Francisco LGBT Center\r\n1800 Market Street\r\nSan Francisco CA 94102\r\n(415) 865-5661 - Front Desk\r\n(415) 865-5555 - Main Line",
+      "Days/Hours Operation": "Monday-Thursday 12-10 p.m. / Friday 12-6pm / Saturday 9a.m.-6p.m.",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "San Francisco Suicide Prevention",
+      "Resource Type": "Harm Reduction;#LGBTIQQ;#Mental Health;#Substance Use;#HIV/AIDS/STD;#Crisis Management;#Counseling;#Hotline",
+      "Narrative": "\r\nSan Francisco Suicide Prevention is the oldest community-based telephone crisis center in the United States, founded in 1962 by Bernard Mayes, a journalist from the British Broadcasting Corporation.  To this day, the agency trains local volunteers who provide suicide prevention and crisis intervention services to callers, over 500 other crisis centers across the United States now utilize the same concept.",
+      "Resource Web Link": "http://www.sfsuicide.org/",
+      "Contact Info": "\r\n​By Email:General mail box:\r\ninfo@sfsuicide.orgExecutive Director:\r\nevem@sfsuicide.orgFundraising, Grants, Donations, Marketing:\r\nMeghanF@sfsuicide.orgAccounting:\r\nelisayd@sfsuicide.orgVolunteers:\r\ncourtneyb@sfsuicide.orgYouth / Outreach:\r\nSivanA@sfsuicide.orgBy Phone:Business\r\n 415/984-1900Crisis Line\r\n 415/781-0500TTY\r\n 415/227-0245Fax\r\n 415/227-0247By Mail:San Francisco Suicide Prevention\r\n P.O. Box 191350\r\n San Francisco, CA, 94119-1350\r\nFederal Tax ID – 94-1581618",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "California Youth Crisis Line",
+      "Resource Type": "Harm Reduction;#Human Trafficking;#LGBTIQQ;#Substance Use;#Crisis Management;#Counseling;#Hotline",
+      "Narrative": "\r\n​California Coalition for Youth offers support, encouragement, and referrals to youth needing assistance or in crisis situations. The California Youth Crisis Line connects an average of 12,000 callers with vital resources annually.",
+      "Resource Web Link": "http://www.youthcrisisline.org",
+      "Contact Info": "\r\n​1-800-843-5200\r\nPaul A. Curtis, Executive Director\r\npaul@calyouth.org\r\n\r\n                CYCL Program Inquiries\r\ncycl@calyouth.org\r\nGeneral Inquiries\r\ninfo@calyouth.org\r\n ",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "San Francisco Women Against Rape",
+      "Resource Type": "Hotline",
+      "Narrative": "\r\n​San Francisco Women Against Rape provides resources, support, advocacy and education to strengthen the work of all individuals, and communities in San Francisco that are responding to, healing from, and struggling to end sexual violence. At SFWAR, we believe that no single individual, organization, foundation, or business alone can stop the epidemic of sexual assault, but by responding as a whole community, we each bring our piece of the solution.",
+      "Resource Web Link": "http://sfwar.org",
+      "Contact Info": "\r\n​San Francisco Women Against Rape\r\n 3543 18th Street, #7\r\n San Francisco, CA 94110\r\n tel: (415) 861-2024\r\n fax: (415) 861-2092\r\n 24-hour Hotline: (415) 647-7273\r\n email: info@sfwar.org",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "SF4TAY",
+      "Resource Type": "Dental;#Education;#Food;#Housing;#Literacy;#LGBTIQQ;#Mental Health;#Shelters;#Vision;#Career Support;#HIV/AIDS/STD;#Counseling",
+      "Narrative": "\r\n​SF4TAY was created for young adults looking for help in San Francisco. A project of the TAYSF Young Adult Advisory, SF4TAY is a TAY-specific website to improve outreach to transitional age youth (16-24). This comprehensive, searchable resource directory will allow YOU and service providers to easily access information in order to connect with the range of local resources that are available. Services in workforce, education, housing, wellness, advocacy and recreation will be listed on one central site.",
+      "Resource Web Link": "http://sf4tay.org/",
+      "Contact Info": "\r\n​SF4TAY Team:\r\nDaisy Ozim – SF4TAY Communications Coordinator – dozim@taysf.org- (415) 554-8415\r\n Jose-Luis Mejia – Young Adult Engagement Coordinator – jose-luis@taysf.org – (415) 701-5568\r\n Glenn Eagleson -Senior Planner & Policy Analyst/Citywide Lead for TAY Services – geagleson@dcyf.org – (415) 554-8791",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "LGBT Youth Talkline",
+      "Resource Type": "Family/Children;#Harm Reduction;#LGBTIQQ;#Substance Use;#Counseling;#Hotline",
+      "Narrative": "\r\n\r\n​The Gay, Lesbian, Bisexual and Transgender (GLBT) National Help Center, founded in 1996, is a non-profit, tax-exempt organization that provides vital peer-support, community connections and resource information to people with questions regarding sexual orientation and/or gender identity. Utilizing a diverse group of GLBT volunteers, we operate two national hotlines, the GLBT National Hotline and the GLBT National Youth Talkline, as well as private, volunteer one-to-one online chat, that helps both youth and adults with coming-out issues, safer-sex information, school bullying, family concerns, relationship problems and a lot more. We also maintain the largest collection of resources for the GLBT community in the United States, with 15,000 local resources for cities and towns across the country.",
+      "Resource Web Link": "http://www.glnh.org/",
+      "Contact Info": "\r\n\r\n​Gay, Lesbian, Bisexual and Transgender (GLBT) National Hotline \r\ntoll-free phone:\r\n1-888-843-4564\r\n\r\nGLBT National Youth Talkline toll-free phone:\r\n1-800-246-PRIDE (1-800-246-7743)\r\n\r\nAdministrative phone:  415-355-0003\r\n\r\nEmail address:help@GLBThotline.org\r\n\r\nMailing address:\r\nGLBT National Help Center\r\n2261 Market Street,  #296\r\nSan Francisco, CA  94114",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "HIV/AIDS/STD Service Referrals",
+      "Resource Type": "LGBTIQQ;#Medical;#HIV/AIDS/STD;#Hotline",
+      "Narrative": "\r\n​Referral service for HIV/AIDS/STD Support",
+      "Contact Info": "\r\n​Phone: 1.800.367.2437",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "San Francisco Homeless Resource",
+      "Resource Type": "Food;#Legal Services;#Medical;#Mental Health;#Shelters",
+      "Narrative": "\r\n​The Community Behavioral Health Services system is the network of organizations receiving funding from the City to deliver mental health services.",
+      "Resource Web Link": "http://sfhomeless.wikia.com/wiki/San_Francisco_Homeless_Resource",
+      "Contact Info": "\r\nAddress: 1380 Howard Street, 4th or 5th Floor 94103\r\nPhone: 415-255-3737 / 415-255-3400 /   888-246-3333 (Admin)",
+      "Days/Hours Operation": "M-F: 8am-5pm (office)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Treatment Access Program",
+      "Resource Type": "Substance Use",
+      "Narrative": "\r\n​If you or a loved one are in need of substance use/abuse treatment services and have Medi-Cal, Health SF, SF Mental Health Plan or no insurance, you can call Treatment Access Program (TAP) for assistance.",
+      "Contact Info": "\r\n​Address: 1380 Howard St. 1st Floor\r\n                                   San Francisco, California 94103\r\nPhone: 415-503-4730",
+      "Days/Hours Operation": "M - F / 8-5",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Dore Urgent Care Clinic",
+      "Resource Type": "Food;#Laundry;#Mental Health;#Shelters;#Shower",
+      "Narrative": "\r\n​If you or a loved one are in psychiatric crisis and are looking for help, call the Dore Urgent Care Clinic. They can offer a phone triage and help determine whether their services are best to mee the needs presented. They can provide a crisis assessment, a comfortable recliner chair to sleep one night in, administer any current medicatioins, provide food, laundry and shower, and someone to talk to in a comfortable, community-based, voluntary environment.",
+      "Contact Info": "\r\n​Phone: 415.553.3100\r\nAddress: 52 Dore Street between Howard/Folsom and 9th/10th Streets.",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Mobile Crisis Treatment",
+      "Resource Type": "Harm Reduction;#Crisis Management",
+      "Narrative": "\r\n​Emergency crisis intervention services conducted in the field for early intervention before escalation to critical crisis. Consultation services provided to consumers, support systems, mental health providers and shelter providers. Assistance with linkage to outpatient mental health services. 5150 evaluation capacity and determination of appropriate level of care.",
+      "Contact Info": "\r\n​Phone: 415.970.4000",
+      "Days/Hours Operation": "M-F (11a - 11p) / Wknds (12n - 7p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Stonewall Project",
+      "Resource Type": "Harm Reduction;#LGBTIQQ;#Mental Health;#Substance Use;#HIV/AIDS/STD",
+      "Narrative": "\r\n​The Stonewall Project is a family of programs dedicated to providing harm reduction-based counseling, treatment, and support services to gay men, transmen who have sex with men, and other men who have sex with men who are having issues with drugs and/or alcohol. We welcome you wherever you're at, and do not require abstinence for you to receive services.",
+      "Resource Web Link": "http://stonewallsf.org/",
+      "Contact Info": "\r\n​1035 Market St. Suite 400\r\nSan Fancisco, CA 94103\r\nReception: 415-487-3100\r\nFax: 415-558-9657\r\nTDD: 415-487-8098",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "The Latino Commission",
+      "Resource Type": "Family/Children;#LGBTIQQ;#Substance Use;#Harm Reduction;#Career Support;#Latino",
+      "Narrative": "\r\n​TLC provides behavioral health treatment services that are culturally competent and holistic involving the  entire family. Our goal is to increase access to recovery services and treat quality of life challenges such as: substance abuse, domestic violence, family reunification, and job preparedness. We serve men and women, pregnant women and their children, and people with a range of issues such as mental health, physical conditions, and HIV/AIDS.ALL ARE WELCOME!",
+      "Resource Web Link": "http://www.thelatinocommission.org/",
+      "Contact Info": "\r\n​301 Grand Avenue #301\r\nSouth San Francisco, CA 94080\r\nPhone: 650-244-1444\r\nFax: 650-2441447",
+      "Days/Hours Operation": "M-F 8am - 6pm (Wed close at 5pm / Fri close at 2pm)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Walden House",
+      "Resource Type": "Housing;#Mental Health;#Substance Use",
+      "Narrative": "\r\n​Serving clients with mental health and substance use disorder issues at various residential and outpatient facilities throughout California, including in-custody treatment programs and services for people transitioning back into their communities.",
+      "Resource Web Link": "https://www.healthright360.org/agency/walden-house",
+      "Contact Info": "\r\n​Phone: (415) 762-3705",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Salvation Army - Harbor Light",
+      "Resource Type": "Education;#Harm Reduction;#Substance Use;#Career Support",
+      "Narrative": "\r\n​The Harbor Light Center, providing comprehensive chemical dependency treatment for men, women, and families, has been successfully serving the San Francisco bay area for over 70 years. Drug and alcohol addiction are a real part of our social structure and affects many people, their friends, and their families. There is hope. Through a program of progressive care, education, workforce development, and personal development, people's lives are transformed.",
+      "Resource Web Link": "http://www.sanfrancisco.salvationarmy.org/sanfrancisco/harbor_light",
+      "Contact Info": "\r\n​Address\r\n 1275 Harrison Street\r\n San Francisco, CA 94103\r\nPhone\r\nMajors David & Michelle Pierce\r\n (415) 503-3003",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "SF Psychiatric Emergency",
+      "Resource Type": "Mental Health;#Crisis Management",
+      "Narrative": "\r\n​Short-term counseling of individuals/families, crisis intervention, medication, referrals to community clinics and hospitalization. Psychiatric evaluations on emergency basis.",
+      "Contact Info": "\r\n​Address\r\n1001 Potrero Ave., 94110\r\nPhone\r\n415-206-8125",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "SF Psychiatric Emergency",
+      "Resource Type": "Mental Health",
+      "Narrative": "\r\n​Short-term counseling of individuals/families, crisis intervention, medication, referrals to community clinics and hospitalization. Psychiatric evaluations on emergency basis.",
+      "Contact Info": "\r\n​Address\r\n1001 Potrero Ave., 94110\r\nPhone\r\n415-206-8125",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Comprehensive Child Crisis Service",
+      "Resource Type": "Family/Children;#Substance Use;#Crisis Management;#Counseling",
+      "Narrative": "\r\n​Provides a 24-hour, multilingual, crisis intervention and short-term stabilization program for families and children who are experiencing emotional distress related to family violence, physical or emotional illness, school truancy, behavioral problems and other crises.",
+      "Resource Web Link": "http://sfhomeless.wikia.com/wiki/Comprehensive_Child_Crisis_Service",
+      "Contact Info": "\r\n​Address\r\n3801 3rd St., Ste. 400, 94124\r\nPhone\r\n415-970-3800",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "McMillan Center",
+      "Resource Type": "Case Management;#Shelters;#Shower;#Substance Use;#Drop In",
+      "Narrative": "\r\n​Provide stabilization for intoxicated individuals, showers, case management, referrals to community resources, peer group counseling daily 2 p.m. and 7 p.m., light snacks and socialization",
+      "Contact Info": "\r\n​Address\r\n39 Fell Street\r\n      San Francisco, CA 94103\r\nPhone\r\n(415) 241-1180",
+      "Days/Hours Operation": "24 Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Parents Support Line",
+      "Resource Type": "Family/Children;#Hotline",
+      "Narrative": "\r\n​Support for parents who are having challenges with their children",
+      "Contact Info": "\r\n​Phone: 415.441.5437",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Homeward Bound Program",
+      "Resource Type": "Clothing;#Shower",
+      "Narrative": "\r\n​The Homeward Bound program is designed to help reunite homeless persons living in San Francisco with family and friends willing and able to offer ongoing support to end the cycle of homelessness.\r\nThrough the Homeward Bound Program, the Human Services Agency can provide you with a bus ticket home if you:are homeless/low income and living in San Francisco; andhave family or friends at the destination that Homeward Bound staff can verify as willing and able to provide you a place to stay and ongoing support; andare medically stable enough to travel unassisted to the destination; andare sober and able to abstain from alcohol or using other substances en route.\r\nYour personal hygiene must be at an acceptable level to travel. Clothing and shower facilities can be provided before you get on the bus.",
+      "Resource Web Link": "http://www.sfhsa.org/79.htm",
+      "Contact Info": "\r\nAddress\r\n1235 Mission Street between 8th and 9th St. Ask for the Homeward Bound or \"Bus Ticket Home\" table\r\nPhone\r\n415-846-8639",
+      "Days/Hours Operation": "M-F (9a - 11a / 2p - 4p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Baker Places",
+      "Resource Type": "Housing;#Mental Health;#Substance Use;#Harm Reduction;#HIV/AIDS/STD",
+      "Narrative": "\r\n​Baker Places, Inc. is committed to providing a comprehensive array of high quality services to adults with mental health, substance abuse, and HIV/AIDS related issues. The agency is dedicated to assisting individuals in learning and regaining the skills to live their lives fully and productively in the community.",
+      "Resource Web Link": "http://bakerplaces.org/",
+      "Contact Info": "\r\n​Phone\r\n(415) 864 - 1515",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "LifeRing Secular Recovery",
+      "Resource Type": "Substance Use;#Harm Reduction",
+      "Narrative": "\r\n​LifeRing Secular Recovery is an abstinence-based, worldwide network of individuals seeking to live in recovery from addiction to alcohol or to other non-medically indicated drugs. In LifeRing, we offer each other peer-to-peer support in ways that encourage personal growth and continued learning through personal empowerment. Our approach is based on developing, refining, and sharing our own personal strategies for continued abstinence and crafting a rewarding life in recovery. In short, we are sober, secular, and self-directed.",
+      "Resource Web Link": "http://lifering.org/",
+      "Contact Info": "\r\n​Address\r\n1440 Broadway, Suite 400\r\n Oakland, CA 94612\r\nPhone\r\n1.800.811.4142\r\nEmail\r\nservice@lifering.org",
+      "Days/Hours Operation": "M-F - (10a-3p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Harm Reduction Therapy Center",
+      "Resource Type": "Harm Reduction;#Substance Use",
+      "Narrative": "\r\n​The Center, founded by leaders in the Harm Reduction Therapy movement, is a certified drug and alcohol treatment program staffed by mental health professionals. Our program offers pragmatic, proven solutions to substance misuse, and has an impressive record of positive results. Harm Reduction Therapy is a revolutionary client-therapist collaboration that combines substance misuse treatment with psychotherapy, so clients can address both their substance use and the issues that are behind it.",
+      "Resource Web Link": "http://harmreductiontherapy.org/",
+      "Contact Info": "\r\n​San Francisco\r\n45 Franklin Street, Suite 320\r\n San Francisco, CA 94102\r\n(415) 863 4282\r\nOakland\r\n315 Broadway\r\n Oakland, CA 94607\r\n(415) 863 4282",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "SMART Recovery",
+      "Resource Type": "Harm Reduction;#Substance Use",
+      "Narrative": "\r\n​SMART Recovery is the leading self-empowering addiction recovery support group.  Our participants learn tools for addiction recovery based on the latest scientific research and participate in a world-wide community which includes free, self-empowering, science-based mutual help groups.",
+      "Resource Web Link": "http://smartrec-sv.org/index.php",
+      "Contact Info": "\r\n​General Inquiries:\r\n Emailcontact@smartrec-sv.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "HAMS Harm Reduction",
+      "Resource Type": "Harm Reduction;#Substance Use",
+      "Narrative": "\r\n​HAMS is a peer-led and free-of-charge support and informational group for anyone who wants to change their drinking habits for the better. The acronym HAMS stands forHarm reduction,Abstinence, andModerationSupport.  HAMS Harm Reduction strategies are defined in the17 elements of HAMS. HAMS offerssupport via anonline forum, achat room, anemail group,a facebook group, andlive meetings. We also offer harm reduction information via theHAMS Book, thearticles on this web site, and theHAMS podcast. HAMS supports every positive change. Choose your own goal - safe drinking, reduced drinking, or quitting alcohol altogether.",
+      "Resource Web Link": "http://www.hamsnetwork.org/",
+      "Contact Info": "\r\n​The HAMS Harm Reduction Network, Inc.\r\n P. O. Box 498\r\n New York, NY 10012\r\n Tel: 347-678-5671\r\n Email:hams@hamsnetwork.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Moderation Management",
+      "Resource Type": "Harm Reduction;#Substance Use",
+      "Narrative": "\r\n​Moderation Management is a behavioral change program and support group network    for people concerned about their drinking and who desire to make    positive lifestyle changes.",
+      "Resource Web Link": "http://moderation.org/",
+      "Contact Info": "\r\n​P.O. Box 410703\r\n St. Louis, MO 63141    \r\nEmail: mm@moderation.org     ",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Bay Positives",
+      "Resource Type": "Case Management;#Housing;#LGBTIQQ;#Counseling",
+      "Narrative": "\r\n​Peer-run by LGBT youth 26 and under living with HIV/AIDS. Support, case management, counseling, housing assistance, drop-in group, social and recreational events",
+      "Resource Web Link": "http://baypositives.org/",
+      "Contact Info": "\r\n​Address\r\n701 Oak Street\r\nSF, CA 94117\r\nPhone\r\n415.487.1616",
+      "Days/Hours Operation": "M - F (10a - 6p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "Food;#LGBTIQQ",
+      "Narrative": "\r\n​Provides community, leadership, advocacy, support and services to the Silicon Valley LGBT community and their allies. Programs include social activities, youth leadership development, nutricious lunches for seniors, support groups, individual counseling and HIV testing.",
+      "Resource Web Link": "http://www.defrankcenter.org/",
+      "Contact Info": "\r\n​General Inquiries:fabulous@defrank.org\r\nPhone: (408) 293-3040\r\n",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "California Safe Schools Coalition",
+      "Resource Type": "Education;#LGBTIQQ",
+      "Narrative": "\r\nThe California Safe Schools Coalition is a               statewide partnership of organizations and individuals dedicated               to eliminating discrimination and harassment on the basis of actual               or perceived sexual orientation and gender identity in California               schools. Our chief goal is to ensure the effective and comprehensive               implementation of the California Student Safety and Violence Prevention               Act of 2000 ",
+      "Resource Web Link": "http://casafeschools.org/index.html",
+      "Contact Info": "\r\n​California Safe Schools Coalition\r\n              Hamm's Building\r\n              1550 Bryant Street\r\n              Suite 800\r\n              San Francisco, CA 94103\r\ninfo@casafeschools.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "COLAGE (Children of Lesbians & Gays Everywhere",
+      "Resource Type": "Family/Children;#LGBTIQQ",
+      "Narrative": "\r\n​COLAGE unites people with lesbian, gay, bisexual, transgender, and/or queer parents into a network of peers and supports them as they nurture and empower each other to be skilled, self-confident, and just leaders in our collective communities.",
+      "Resource Web Link": "http://www.colage.org/",
+      "Contact Info": "\r\n​General inquiries\r\n Email /  colage@colage.org\r\nFor program & chapter inquiries, resources or support please contact our Program Director\r\nKey Jackson\r\n Phone / (504) 313-0555\r\n Email / key@colage.org",
+      "Days/Hours Operation": "M-F (9a - 5p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "The Diversity Center, Santa Cruz",
+      "Resource Type": "LGBTIQQ",
+      "Narrative": "\r\n​Offers a drop-in safe space, peer groups, potlucks, job and housing referrals, business and resource information, a lending library and more.",
+      "Resource Web Link": "http://www.diversitycenter.org/",
+      "Contact Info": "\r\n​Our Physical Address:\r\n1117 Soquel Avenue\r\nSanta Cruz, CA 95062\r\nPhone: (831) 425-5422\r\nFax: (831) 425-0743\r\nEmail: info@diversitycenter.org\r\n ",
+      "Days/Hours Operation": "M,T,Th,F (9a - 6p) / W (12p - 6p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "FTM International",
+      "Resource Type": "LGBTIQQ",
+      "Narrative": "\r\n​FTM International Leaders focus on Strong Rights, human rights, multiple oppressions, immigrant rights and anti-oppression work with all our members, families, friends, allies, donors, volunteers, chapter members and leaders.",
+      "Resource Web Link": "http://ftmi.org/",
+      "Contact Info": "\r\n​FTMI 601 Van Ness Ave. Suite E327 San Francisco, CA 94102\r\n(877) 267-1440info@ftmi.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Behavioral Health Access Center (BHAC)",
+      "Resource Type": "Counseling;#Mental Health",
+      "Narrative": "\r\n​If you are in need of mental health services and you live in San Francisco and have Medi-Cal, Healthy SF, SF Mental Health Plan or no health insurance, you can call Behavioral Health Access Center (BHAC)",
+      "Contact Info": "\r\n​Phone: 415.255.3737 / 888.246.3333",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "Education;#Health/Wellness;#LGBTIQQ",
+      "Narrative": "\r\n​GSA Network is a next-generation LGBTQ racial and gender justice organization that empowers and trains queer, trans and allied youth leaders to advocate, organize, and mobilize an intersectional movement for safer schools and healthier communities. ",
+      "Resource Web Link": "http://gsanetwork.org/",
+      "Contact Info": "\r\nNational & Statewide Headquarters:\r\n1611 Telegraph Ave., Ste. 1002\r\nOakland, CA 94112\r\nPhone: 415.552.4229\r\nFax: 415.552.4729\r\ninfo@gsanetwork.org\r\n \r\nSouthern California Regional Office: \r\n1313 West 8th St, Suite 232\r\nLos Angeles, CA 90017\r\nPhone: 213.529.4822\r\nsocal@gsanetwork.org\r\n \r\nCentral Valley Regional Office:\r\nPhone: 559.268.2780\r\nMail for the Central Valley office may be sent to our headquarters in San Francisco.\r\ncentralvalley@gsanetwork.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Human Rights Campaign (HRC)",
+      "Resource Type": "LGBTIQQ",
+      "Narrative": "\r\n​The Human Rights Campaign represents a force of more than 1.5 million members and supporters nationwide. As the largest national lesbian, gay, bisexual and transgender civil rights organization, HRC envisions an America where LGBT people are ensured of their basic equal rights, and can be open, honest and safe at home, at work and in the community.",
+      "Resource Web Link": "http://www.hrc.org/",
+      "Contact Info": "\r\nAddress:\r\n1640 Rhode Island Ave. N.W.\r\n Washington, DC 20036-3278\r\nPhone:\r\n(202) 628-4160",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Lyon-Martin Health Services",
+      "Resource Type": "Health/Wellness;#HIV/AIDS/STD;#LGBTIQQ;#Medical;#Mental Health",
+      "Narrative": "\r\n​Lyon-Martin Health Services provides excellent health care to women, lesbians and transgender people in a safe and compassionate environment, with sensitivity to sexual orientation and gender identity; all services are regardless of ability to pay.  ",
+      "Resource Web Link": "http://lyon-martin.org/",
+      "Contact Info": "\r\n​Address:\r\n1748 Market Street, Suite 201\r\n San Francisco, CA 94102\r\nPhone:\r\n415-565-7667",
+      "Days/Hours Operation": "M-F (Hours vary, please call first)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "Education;#Legal Services;#LGBTIQQ",
+      "Narrative": "\r\n​NCLR is a non-profit, public interest law firm that litigates precedent-setting cases at the trial and appellate court levels; advocates for equitable public policies affecting the LGBT community; provides free legal assistance to LGBT people and their legal advocates; and conducts community education on LGBT issues.",
+      "Resource Web Link": "http://www.nclrights.org/",
+      "Contact Info": "\r\n​National Office\r\n 870 Market Street Suite 370\r\n San Francisco CA 94102\r\n tel   415.392.6257\r\n fax  415.392.8442\r\nGeneral information: Info@NCLRights.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Outlet",
+      "Resource Type": "Counseling;#Education;#Health/Wellness;#LGBTIQQ;#Substance Use",
+      "Narrative": "\r\n​Founded in 1997, Outlet empowers Lesbian, Gay, Bisexual, Transgender, Queer and Questioning (LGBTQQ+) youth and builds safe and accepting communities through support, education, and advocacy. Outlet envisions a world that embraces, empowers, and celebrates LGBTQQ+ youth. Outlet officially became a program of ACS in 2013.",
+      "Resource Web Link": "http://www.acs-teens.org/",
+      "Contact Info": "\r\n​Address:\r\n643 Bair Island Road, Suite 301\r\n Redwood City, CA 94063\r\nPhone:\r\n650-424-085",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Our Family Coalition",
+      "Resource Type": "Education;#Family/Children;#LGBTIQQ",
+      "Narrative": "\r\n​Our Family Coalition advances equity* for lesbian, gay, bisexual, transgender, and queer (LGBTQ) families with children through support, education, and advocacy.",
+      "Resource Web Link": "http://ourfamily.org/index.php",
+      "Contact Info": "Main Office:\r\n1385 Mission Street Suite 340\r\nSan Francisco, CA 94103\r\nPhone: (415) 981-1960\r\nEmail:info@ourfamily.org\r\n \r\nEast Bay Office (not staffed):\r\n401 Grand Avenue Suite 400\r\nOakland, CA 94610",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "LGBTIQQ",
+      "Narrative": "\r\n​To provide support and advocacy to Sonoma County's gay, lesbian, bisexual, transgender, queer, questioning, intersex, asexual, agender, and straight youth and young adults, and educate the greater community.",
+      "Resource Web Link": "http://www.posimages.org/",
+      "Contact Info": "\r\n​312 Chinn Street\r\n Santa Rosa, CA 95404-4337\r\n tel / fax 707-568-5830\r\nposimage@sonic.net",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "LGBTIQQ;#Mental Health;#Substance Use",
+      "Narrative": "\r\n​We here at Queer LifeSpace firmly believe that a queer community that invests in its mental health is a queer community that thrives.  This belief has fueled our dedication to providing effective, affordable mental health and substance abuse services to as much of our community as we possibly can.We are your very own community’s organization.  An organization that is made up of us, especially for us.",
+      "Resource Web Link": "http://www.queerlifespace.org/",
+      "Contact Info": "\r\n​Address:\r\n2275 Market Street, #7\r\n(cross at Noe Street)\r\n San Francisco, CA 94114\r\nPhone:\r\n(415) 358-2000",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Rainbow's End - Spectrum",
+      "Resource Type": "HIV/AIDS/STD;#LGBTIQQ",
+      "Narrative": "\r\n​Spectrum is dedicated to engaging, empowering and advocating for Lesbian, Gay, Bisexual, and Transgender people. We envision a Marin community where Lesbian, Gay, Bisexual, and Transgender people are welcomed, affirmed, supported and advocated for by all community members.  A community where it takes no special act of courage to live openly as a lesbian, gay, bisexual, or transgender person.",
+      "Resource Web Link": "http://www.spectrumlgbtcenter.org/",
+      "Contact Info": "\r\n​910 Irwin Street\r\n San Rafael, CA 94901\r\n Phone: 415.472.1945\r\n Email: jmalone@thespahrcenter.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Student, Family, and Community Support Department",
+      "Resource Type": "Education;#Family/Children;#LGBTIQQ;#Foster Youth",
+      "Narrative": "\r\n​Student, Family, and Community Support Department  (SFCSD) is privileged to support San Francisco youth and families, through  building school capacity to address student needs, and working to achieve  District-wide academic goals.  Additionally, through its programs,  services and curricula, SFCSD seeks to increase student achievement, and  pro-social student behaviors so all students can become high achieving and joyful  learners.",
+      "Resource Web Link": "http://www.healthiersf.org/",
+      "Contact Info": "\r\n​555 Franklin, 3rd Floor\r\n                  San Francisco, CA 94102                     \r\n                  Phone: (415) 522-6738\r\n                  Fax: (415) 522-6792\r\nEmail:info@healthiersf.org",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "LGBTIQQ",
+      "Narrative": "\r\n​TransGender San Francisco is a support and social group for the entire TransGender and Gender-Non-Conforming community.",
+      "Resource Web Link": "http://tgsf.org/",
+      "Contact Info": "\r\n​Address:\r\n584 Castro St #765\r\n San Francisco, CA 94114\r\nPhone:\r\n(415) 839-9448",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Trans Thrive",
+      "Resource Type": "Asian/Pacific Islander;#Drop In;#Health/Wellness;#HIV/AIDS/STD;#LGBTIQQ",
+      "Narrative": "\r\n​We’re a safe space by and for the transgender community. Connect to community, explore your identity, and grow. You’ll always be respected here.",
+      "Resource Web Link": "http://transthrive.org/",
+      "Contact Info": "\r\n​A&PI Wellness Center\r\n 730 Polk Street\r\n San Francisco, CA 94109\r\n Tel: 415.292.3400\r\n Fax: 415.292.3404\r\ninfo@apiwellness.org\r\nThe Wellness Clinic\r\n 726 Polk Street",
+      "Days/Hours Operation": "Tu (2p - 5p) / Th,Fr,Sa (1p - 5p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Transgender Law Center",
+      "Resource Type": "Latino;#Legal Services;#LGBTIQQ",
+      "Narrative": "\r\n​Transgender Law Center works to change law, policy, and attitudes so that all people can live safely, authentically, and free from discrimination regardless of their gender identity or expression. We envision a future where gender self-determination and authentic expression are seen as basic rights and matters of common human dignity.",
+      "Resource Web Link": "http://transgenderlawcenter.org/",
+      "Contact Info": "\r\n​1629 Telegraph Ave, Suite 400\r\n Oakland, CA 94612\r\n p. 415.865.0176\r\n f.  877-847-1278\r\ncollect line for inmates & detainees: 510.380.8229",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Trevor Project",
+      "Resource Type": "Crisis Management;#Hotline;#LGBTIQQ",
+      "Narrative": "\r\n​Founded in 1998 by the creators of the Academy Award®-winning short film TREVOR, The Trevor Project is the leading national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgender and questioning (LGBTQ) young people ages 13-24.",
+      "Resource Web Link": "http://www.thetrevorproject.org/",
+      "Contact Info": "\r\n​866-488-7386",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "UCSF Alliance",
+      "Resource Type": "Counseling;#Health/Wellness;#HIV/AIDS/STD;#Latino;#LGBTIQQ;#Medical;#Mental Health;#Substance Use",
+      "Narrative": "\r\n​Provides health services and resources for members of the LGBT Community and individuals with HIV/AIDS",
+      "Resource Web Link": "http://www.ucsf-ahp.org/",
+      "Contact Info": "\r\n​1930 Market Street\r\nSan Francisco, CA 94102\r\n415-476-3902\r\nahpinfo@ucsf.edu",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Family Mosaic Project",
+      "Resource Type": "Family/Children;#Mental Health",
+      "Narrative": "\r\n​Family Mosaic Project (FMP) provides intensive care management and wraparound services to seriously emotionally disturbed children and youth, and their families, in order to reduce the risk of out-of-home placement. If a child is residing outside of the home, FMP attempts to provide services that will either maintain or reduce the current level of care in order to avoid institutionalization, juvenile detention, or other restrictive treatment settings.",
+      "Resource Web Link": "http://www.sanfrancisco.networkofcare.org/veterans/services/agency.aspx?pid=FamilyMosaicProjectChildrenSystemofCare_871_17_0",
+      "Contact Info": "\r\n​Phone: (415) 206-7630",
+      "Days/Hours Operation": "8:30AM - 5:00PM",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Edgewood Center for Children & Families",
+      "Resource Type": "Counseling;#Crisis Management;#Family/Children;#Health/Wellness;#Mental Health",
+      "Narrative": "\r\n​Edgewood Center for Children and Families serves thousands of children, youth, and families that have experienced traumatic stress leading to learning disabilities, mental illness, and debilitating behavioral issues. With treatment and prevention programs, many children and families can overcome these challenges and transform their lives.",
+      "Resource Web Link": "http://www.edgewood.org/index.html",
+      "Contact Info": "\r\n​Edgewood San Francisco\r\n1801 Vicente Street\r\nSan Francisco, CA 94116\r\nPhone:  415.681.3211 Main Fax: 415.664.7094\r\nEdgewood Intake/Referrals\r\nIntake Department: 1.844.EDGE411 (334.3411) or 415.682.3172\r\nMake a referral, consult with staff, or to schedule a tour. \r\n(M-F, 9am-5pm)\r\nEdgewood San Mateo Region\r\n957 Industrial Road, Suite B\r\nSan Carlos, CA 94070\r\nPhone: 650.832.6900\r\nFax:  650.620.9549\r\nEdgewood Bayview Region\r\n3801 3rd Street, Suite 610\r\nSan Francisco, CA 94124\r\nPhone: 415.682.3276\r\nFax: 415.648.4410",
+      "Days/Hours Operation": "M-F (9a - 5p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Depression & Bipolar Support Alliance of SF (DBSA)",
+      "Resource Type": "Education;#LGBTIQQ;#Mental Health",
+      "Narrative": "\r\n​Depression and Bipolar Support Alliance San Francisco was started to empower people with mood disorders, and their friends and family members, through peer support, education, and advocacy. We welcome all who live with mood disorders, or who love someone with a mood disorder, regardless of age, race, gender, national origin, sexual orientation, physical or mental disability, or income.",
+      "Resource Web Link": "http://www.dbsasf.org/",
+      "Contact Info": "\r\n​DBSA SF\r\nc/o St. Francis Hospital 3rd Floor\r\n900 Hyde Street\r\nSan Francisco, CA 94109\r\nPhone: 415-995-4792",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Family Service Agency of SF",
+      "Resource Type": "Family/Children;#Mental Health",
+      "Narrative": "\r\n​Family Service Agency of San Francisco has been providing mental heath services in the Bay Area for 108 years. It utilizes over 100 highly-trained clinicians to meet the need of every individual and family in San Francisco.",
+      "Contact Info": "\r\n​1010 Gough Street\r\n      San Francisco, CA 94109\r\nPhone:\r\n415.474.7310",
+      "Days/Hours Operation": "M-F (9a - 5p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Gamblers Anonymous",
+      "Resource Type": "Counseling;#Hotline;#Rehabilitation/Recovery;#Substance Use",
+      "Narrative": "\r\n​GAMBLERS ANONYMOUS is a fellowship of men and women who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from a gambling problem.",
+      "Resource Web Link": "http://www.gamblersanonymous.org/ga/",
+      "Contact Info": "\r\n​Phone: 855-222-5542",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Disability Rights California",
+      "Resource Type": "Career Support;#Disability;#Legal Services;#Mental Health",
+      "Narrative": "\r\n​Disability Rights California works to bring about fairness and justice for people with disabilities.",
+      "Resource Web Link": "http://www.disabilityrightsca.org/",
+      "Contact Info": "\r\n​1330 Broadway, Suite 500\r\n            Oakland, CA 94612\r\n            (510) 267-1200\r\n            Fax (510) 267-1201",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "National Human Trafficking Resource Center (NHTRC) Hotline",
+      "Resource Type": "Human Trafficking",
+      "Narrative": "\r\n​The NHTRC is a national, toll-free hotline, available to answer calls from anywhere in the country, 24 hours a day, every day of the year. The NHTRC is a program of Polaris Project, a non-profit, nongovernmental organization working exclusively on the issue of human trafficking.",
+      "Resource Web Link": "https://polarisproject.org/national-human-trafficking-resource-center",
+      "Contact Info": "\r\n​Call 1-888-3737-888 to report a tip; to connect with anti-trafficking services in your area; or to request training and technical assistance, general information, or specific anti-trafficking resources.",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Asian Anti-Trafficking Collaborative, San Francisco",
+      "Resource Type": "Human Trafficking",
+      "Narrative": "\r\n​\r\n(Partnership of Asian Pacific Islander Legal Outreach, Asian Women’s Shelter, Donaldina Cameron House, and Narika)\r\nWorks with the North Bay Human Trafficking Task Force. Provides legal representation, social services, and access to emergency shelters for victims of human trafficking.",
+      "Resource Web Link": "https://endtrafficking.wordpress.com/",
+      "Contact Info": "\r\n​(415) 567-6255",
+      "Days/Hours Operation": "Business hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "San Francisco Collaborative Against Human Trafficking",
+      "Resource Type": "Human Trafficking",
+      "Narrative": "\r\n​The San Francisco Collaborative Against Human Trafficking (SFCAHT) is committed to ending human trafficking through collaboration, education, outreach, advocacy, and supporting survivors of human trafficking by taking a zero tolerance stance on exploitation, violence, and human trafficking and building a strong group of anti-trafficking advocates and experts in San Francisco.",
+      "Resource Web Link": "http://sfcaht.org/index.html",
+      "Contact Info": "\r\n​Antonia Lavine\r\nSFCAHT Coordinator\r\n2000 Van Ness Avenue, Suite 411\r\nSan Francisco, CA 94109\r\nOffice: 415-346-4600\r\ninfo@sfcaht.org",
+      "Days/Hours Operation": "Business Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Huckleberry Youth Programs, Support for CSEC",
+      "Resource Type": "Child Abuse/Neglect;#Human Trafficking;#Multilingual",
+      "Narrative": "\r\n​In collaboration with Children’s Protective Services, SFPD, the District Attorney, and the Probation Department, they provide immediate crisis intervention and case management services for trafficked youth.",
+      "Resource Web Link": "http://www.huckleberryyouth.org/support-for-commercially-sexually-exploited-youth-csec/",
+      "Contact Info": "\r\n​For more information about our CSEC program, please contact Huckleberry’s Intervention Services Coordinator, Carly Devlin, MSW atcdevlin@huckleberryyouth.org.",
+      "Days/Hours Operation": "Business Hours",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Brennan House",
+      "Resource Type": "Counseling;#Family/Children;#Female;#Housing;#Violence Prevention",
+      "Narrative": "\r\n​18 months of transitional housing for female survivors of domestic violence and their children. Residency included counseling, support groups, and advocacy. Sliding scale based on income. Free if zero income. Cantonese, English, Mandarin, Spanish; other languages may be available.\r\n",
+      "Contact Info": "\r\n​Phone: 415.225.2894\r\n",
+      "Days/Hours Operation": "M-F (9a - 5p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "California Youth Crisis Line",
+      "Resource Type": "Crisis Management;#Hotline;#Human Trafficking;#Violence Prevention",
+      "Narrative": "\r\n​​California Coalition for Youth offers support, encouragement, and referrals to youth needing assistance or in crisis situations. The California Youth Crisis Line conne​cts an average of 12,000 callers with vital resources annually.​\r\n",
+      "Resource Web Link": "http://www.youthcrisisline.org/index.html",
+      "Contact Info": "\r\nPhone: 800.843.5200\r\n",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Cameron House",
+      "Resource Type": "Asian/Pacific Islander;#Case Management;#Counseling;#Drop In;#Family/Children;#Mental Health;#Violence Prevention",
+      "Narrative": "\r\n​Cameron House empowers generations of Chinese American individuals and their families to fully participate in and contribute positively toward a healthy society. We put our Christian faith in action to help people learn, heal, and thrive.\r\n",
+      "Resource Web Link": "http://cameronhouse.org/",
+      "Contact Info": "\r\n​​We are located in the heart of Chinatown on Sacramento Street between Stockton and Powell Streets.\r\nDonaldina Cameron House\r\n920 Sacramento Street\r\nSan Francisco, CA 94108\r\n415-781-0401 (phone)​\r\ninfo@cameronhouse.org (email)",
+      "Days/Hours Operation": "M-F (9a - 7p)",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Center for Domestic Peace",
+      "Resource Type": "Crisis Management;#Family/Children;#Hotline;#Latino;#Medical;#Mental Health;#Violence Prevention",
+      "Narrative": "\r\n​Center for Domestic Peace leads a comprehensive community effort to end the #1 violent crime in Marin County: domestic violence. We provide transformational services and programs that protect and enhance victim safety, and ultimately engage our community in permanent change.\r\n\r\n",
+      "Resource Web Link": "http://www.centerfordomesticpeace.org/",
+      "Contact Info": "\r\n​​24-Hour Hotlines\r\n\r\nEnglish\r\n415.924.6616\r\nSpanish\r\nLinea de apoyo en español\r\n415.924.3456\r\nManKind \r\n415.924.1070\r\nMarin Youth Services\r\n415.526.2557\r\nM-F, 9am-5pm\r\nOr 1.800.799.SAFE\r\n(1.800.799.7233)\r\nfor a domestic violence program near you\r\n\r\n",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Child & Adolescent Support, Advocacy & Resource Center (CASARC)",
+      "Resource Type": "Child Abuse/Neglect;#Counseling;#Drop In;#Family/Children;#Mental Health;#Sexual Abuse/Assault",
+      "Narrative": "\r\n​ASARC serves children and adolescents (up to age 18) who have been sexually or physically abused or who have witnessed severe violence. Forensic medical and crisis management services are available 24 hours a day. CASARC provides trauma-focused psychotherapy for individuals, groups and families. CASARC also provides educational trainings for community providers, including teachers, students, health care providers and mental health professionals. CASARC is also available to provide training to youth and nonprofessionals. CASARC is located on the San Francisco General Hospital campus.​\r\n",
+      "Resource Web Link": "http://www.casarc.org/index.html",
+      "Contact Info": "\r\n​995 Potrero Ave\r\nSan Francisco, CA 94110\r\nTel: (415) 206-8386\r\nFax: (415) 206-6273​\r\n",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Child Crisis",
+      "Resource Type": "Child Abuse/Neglect;#Crisis Management;#Family/Children;#Harm Reduction;#Multilingual;#Substance Use;#Violence Prevention",
+      "Narrative": "\r\n​Provides a 24-hour, multilingual, crisis intervention and short-term stabilization program for families and children who are experiencing emotional distress related to family violence, physical or emotional illness, school truancy, behavioral problems and other crises. ​\r\n",
+      "Resource Web Link": "http://sfhomeless.wikia.com/wiki/Comprehensive_Child_Crisis_Service",
+      "Contact Info": "\r\n​3801 3rd St., Ste. 400, 94124\r\n415-970-3800 (24-hour hotline)​\r\n\r\n\r\n",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Child Protective Services (CPS)",
+      "Resource Type": "Family/Children;#Hotline;#Violence Prevention",
+      "Narrative": "\r\n​Social Workers assess concerns about San Francisco children at risk for abuse, neglect or exploitation by their families, Services are provided to families to address their concerns and to keep families together. Children may be removed from their home when safety requires and placed with a relative or in foster care; petitions may be filed with the Juvenile Court when necessary for the protection of a child. Services ar​​e provided to reunify families. When reunification is not possible, a permanent plan is developed for the child.\r\n\r\n",
+      "Resource Web Link": "http://sfhomeless.wikia.com/wiki/Child_Protective_Services_(CPS)",
+      "Contact Info": "\r\n​P.O. Box 7988, 94120 (mailing address)\r\n170 Otis St., 94120-7988\r\n415-557-5000\r\n800-856-5553 or 415-558-2650 (CPS Hotline)​\r\n\r\n\r\n\r\n",
+      "Days/Hours Operation": "24/7",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Chinatown Child Development Center (BHS)",
+      "Resource Type": "Asian/Pacific Islander;#Counseling;#Family/Children;#Mental Health",
+      "Narrative": "\r\n​Provides outpatient mental health services to children (age 0-18) and their families, offers parenting education and consultation services for the Chinatown community.​\r\n",
+      "Resource Web Link": "http://sfhomeless.wikia.com/wiki/Chinatown_Child_Development_Center_(CCDC)_-_Services_-_Sacramento_Street",
+      "Contact Info": "\r\n​720 Sacramento St., 94108\r\n415-392-4453​",
+      "Days/Hours Operation": "M-F:8:30am-5pm",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Chinatown North Beach Mental Health Services (BHS)",
+      "Resource Type": "Counseling;#Drop In;#Mental Health",
+      "Narrative": "\r\n​Chinatown/North Beach Mental Health Services (CTNB) offers an array of mental health services to adolescent (14 years and older), adult, and older adult residents primarily in the Chinatown and North Beach areas. Services include psychiatric evaluation, individual therapy/counseling, family intervention, urgent care, medications, group activities, acupuncture for psychiatric disorders, as well as adult/geriatric socialization program recovery center. Services are also provided at Galileo High School. CTNB operates with the basic philosophy that services must be accessible and culturally appropriate.\r\n",
+      "Resource Web Link": "http://www.sanfrancisco.networkofcare.org/veterans/services/agency.aspx?pid=ChinatownNorthBeachMentalHealthServices_871_17_0",
+      "Contact Info": "\r\n​729 Filbert Street\r\nSan Francisco, CA 94133​\r\n\r\n​(415) 352-2000​\r\n",
+      "Days/Hours Operation": "M-F 8:30 - 5",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Native American Health Center (NAHC)",
+      "Resource Type": "Dental;#Health/Wellness;#HIV/AIDS/STD;#Medical;#Mental Health;#Native American;#Substance Use;#Vision",
+      "Narrative": "\r\n​The Native American Health Center is a non profit organization serving the California Bay Area Native Population and other under-served populations in the Bay Area. 2012 marked NAHC's 40th anniversary; as an organization, we have been serving our community since 1972.\r\nNAHC has worked at local, state, and federal levels to deliver resources and services for the urban Native community, including medical, dental, behavioral health, diabetes, obesity, substance abuse prevention, HIV/HCV care coordination and prevention. \r\n\r\n",
+      "Resource Web Link": "http://www.nativehealth.org/content/san-francisco-0",
+      "Contact Info": "\r\nTo Make an Appointment Call Now:\r\nOakland Medical: 510.535.4400\r\nOakland Dental: 510.535.4450\r\nSan Francisco Medical: 415.621.8051\r\nSan Francisco Dental: 415.621.8056\r\n \r\nNAHC LOCATIONS\r\n\r\nOakland 3124 Building\r\n3124 International Blvd. Oakland, CA 94601\r\n\r\nServices Offered:\r\nBehaviorial Health Services (4th floor): 510.434.5421\r\nPedo-Dental (3rd floor, Thurs+Fri only): 510.434.5450\r\nWIC (1st Floor): 510.434.5300\r\n\r\n\r\n\r\nOakland 7 Directions Building\r\n2950 International Blvd. Oakland, CA 94601\r\nServices Offered:\r\nMedical: 510.535.4400\r\nDental: 510.535.4450\r\nNutrition + Fitness: 510.535.4460\r\nNAHC provides free Nutrition + Fitness classes every Thursday from 12-1pm\r\n\r\n\r\n\r\nSan Francisco NAHC\r\n160 Capp St. San Francisco, CA 94110\r\n\r\nServices Offered:\r\nMedical: 415.621.8051\r\nDental: 415.621.8056\r\nCircle of Healing/HIV Services: 415.621.8054\r\nWIC: 415.621.7574\r\n\r\n\r\n San Francisco Community Wellness Department\r\n333 Valencia St. San Francisco, CA 94103\r\n\r\nServices Offered\r\nBehaviorial Health Services (2nd floor): 415.503.1046\r\nYouth Services (4th floor): 415.863.2430\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\nRichmond Native Wellness Center\r\nRichmond Site: 2566 MacDonald Avenue Richmond, CA 94804\r\nFor information call 510.232.7020\r\n \r\n\r\n\r\n\r\n\r\nNAHC Alameda Offices\r\n1151 Harbor Bay Parkway, Alameda, CA 94502\r\nSales Inquiries, please call 510.747.3030\r\nFor Administration and Fical, call 510.747.3030 or\r\nFor our HR department, call 510.747.3052\r\nor email humanresources@nativehealth.org\r\nNAHC Alameda WIC\r\n677 W. Ranger Avenue (at the Alameda Point Collaborative), Alameda, CA 94501\r\n\r\n​​Days/Hours: 1st Monday of the month, 2nd Wednesday of the Month, and 3rd Saturday of the month, 9am-12noon and 1-4 pm\r\nPhone: 510.814.8440\r\n",
+      "Days/Hours Operation": "M-F 9-4:30",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Catholic Charities CYO - Immigration Clinic ",
+      "Resource Type": "Latino;#Legal Services",
+      "Narrative": "\r\n​Catholic Charities provides an immigration clinic that is a precursor to meeting with a lawyer one on one. They happen on Tuesdays from 2 until 4. However, new participants must first attend the 10 am registration. Please have them arrive at 845 am as they only have 15 spots for the clinic available and it is first come first serve.",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "San Francisco Housing Development Corporation ",
+      "Resource Type": "Counseling;#Financial Services;#Housing;#Literacy",
+      "Narrative": "\r\n​SF Housing Development Corporation offers FREE monthly workshops on credit, housing and more.",
+      "Resource Web Link": "EventBrite link to Sign up for Workshops",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "Resource Type": "Health/Wellness;#Rehabilitation/Recovery;#Substance Use",
+      "Narrative": "\r\n​The gratitude center provides recovery support around the clock",
+      "Resource Web Link": "http://www.sfgratitude.org/",
+      "Days/Hours Operation": "varied",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Project Legal Link",
+      "Resource Type": "Legal Services",
+      "Narrative": "\r\n​Provides legal support and referrals to various agencies and individuals in SF. Sacha Steinberger works closely with Larkin Street Youth and is a knowledgeble resource when providing legal information.",
+      "Resource Web Link": "http://projectlegallink.org",
+      "Contact Info": "\r\n​sacha@projectlegallink.org",
+      "Days/Hours Operation": "9-5pm",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Second Chance Legal Clinic",
+      "Resource Type": "Legal Services",
+      "Narrative": "\r\n​Offers free re-entry legal services to people who have prior arrests or convictions, assisting in areas such as record expungement, housing and employment rights, occupational licensing, driver's licenses, and background checks.",
+      "Resource Web Link": "http://lccr.com/secondchance",
+      "Contact Info": "\r\n​415-814-7610\r\nsecondchance@lccr.com",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "Gratitude Center",
+      "Resource Type": "Rehabilitation/Recovery;#Substance Use",
+      "Narrative": "\r\n​The gratitude center provides a space for 12-step meetings, meditation and art groups.",
+      "Resource Web Link": "http://www.sfgratitude.org/",
+      "Days/Hours Operation": "varied",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    },
+    {
+      "name": "The Healing Well",
+      "Resource Type": "Drop In;#Health/Wellness;#Mental Health;#Rehabilitation/Recovery",
+      "Narrative": "\r\n​A meditation center in the Tenderloin. Wonderful variety of groups.\r\nA safe community for healing, renewal and growth.",
+      "Resource Web Link": "http://www.healingwellsf.org/",
+      "Contact Info": "\r\n​234 Hyde St.\r\nSan Francisco, 94102\r\n415-500-2099",
+      "Days/Hours Operation": "varied",
+      "Item Type": "Item",
+      "Path": "Lists/Resources"
+    }
+  ]
+}
